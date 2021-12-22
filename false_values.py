@@ -8,14 +8,14 @@ def false_boolean():
 
 def false_string():
     # This function should return a string value that will be converted to false by the bool() function
-    return 'false'
+    return ''
 
 
 def false_int():
     # This function should return an integer value that will be converted to false by the bool() function
-    return -22
+    return -0
 
 
 def false_float():
     # This function should return a float value that will be converted to false by the bool() function
-    return -2.71
+    return -0.0
